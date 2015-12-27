@@ -7,7 +7,7 @@ public class Dream {
      */
     public void say(){
 
-        System.out.println("hei you!");
+        System.out.println("baby!ß!");
     }
     
 }
